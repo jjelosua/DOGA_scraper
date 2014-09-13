@@ -1,6 +1,5 @@
-Scraper for the Galician Official journal (DOGA)
+Galician Official journal (DOGA) Scraper
 ================================================
-
 
 #### Introduction
 
