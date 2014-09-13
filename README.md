@@ -5,9 +5,12 @@ Scraper for the Galician Official journal (DOGA)
 #### Introduction
 
 It seems that the easiest way to access the DOGA dispositions is through the [DOGA search page][1]
-filtering the desired dates
+filtering the desired dates.
+
+This scraper was created and used as a socurce for the publication of this [data journalism story][2]
 
 [1]: http://www.xunta.es/diario-oficial-galicia/buscarAnunciosPublico.do?key_confirmacion=&compMenu=10102
+[2]: http://www.elmundo.es/espana/2014/09/08/53db8b6d268e3ef5488b4576.html
 
 #### Script description
 
